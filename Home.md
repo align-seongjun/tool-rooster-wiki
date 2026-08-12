@@ -4,6 +4,8 @@
 
 ## rooster
 
+코드 저장소: [tool-rooster-engine](https://github.com/align-seongjun/tool-rooster-engine) (private)
+
 ### 읽기 순서
 
 처음 접하는 개발자는 아래 순서를 따르세요:

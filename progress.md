@@ -57,3 +57,5 @@
 | 2026-08-13 | 위키 스캐폴드 생성 |
 | 2026-08-13 | 바이너리 이름 `rooster`로 가배정, `tool-rooster-engine` cargo 프로젝트 생성(clap/axum/tokio/rusqlite/serde/chrono 의존성 + CLI 서브커맨드 스텁) |
 | 2026-08-13 | 위키 requirements/architecture(+ADR)/guidelines/plan/glossary 전체 콘텐츠 작성 (tool-rooster-notes 원본 논의 기반) |
+| 2026-08-13 | GitHub 연동: `tool-rooster-engine`(private), `tool-rooster-wiki`(public) 레포 생성 및 최초 push, 양쪽에서 서로를 가리키는 링크 추가 |
+| 2026-08-13 | GitHub 이슈 워크플로우 셋업: `tool-rooster-engine`에 Phase 1~6 마일스톤/라벨/이슈 21개 미러링(Phase 0은 레포 생성 이전 완료 작업이라 제외), Projects 보드 생성(#3) + Status 4단계(Todo/In Progress/In Review/Done), 이슈 21개 보드에 소급 추가. Workflow 5종 target/on-off는 웹 UI 전용이라 사용자가 직접 설정 |
