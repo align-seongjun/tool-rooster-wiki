@@ -9,9 +9,9 @@
 - [x] 위키(`tool-rooster-wiki`) 스캐폴드 + 콘텐츠 작성(requirements/architecture/guidelines/plan)
 - [x] Rust 툴체인 설치(rustup)
 - [x] `tool-rooster-engine` cargo 프로젝트 생성, 초기 의존성(clap/axum/tokio/rusqlite/serde/chrono) 추가, CLI 서브커맨드 스텁 작성
-- [ ] `tool-rooster-engine` git 초기 커밋
-- [ ] 프로젝트 CLAUDE.md 작성 (primary working directory, 섹션 0에 위키 허브 링크)
-- [ ] `tool-rooster-wiki` git 초기 커밋
+- [x] `tool-rooster-engine` git 초기 커밋 (`030f5ac`)
+- [x] 프로젝트 CLAUDE.md 작성 (primary working directory, 섹션 0에 위키 허브 링크)
+- [x] `tool-rooster-wiki` git 초기 커밋 (`a173178`)
 
 ---
 
